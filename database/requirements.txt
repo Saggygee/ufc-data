@@ -1,0 +1,20 @@
+# UFC Database Solution Requirements
+# =================================
+
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Database (SQLite is built into Python)
+# No additional database dependencies needed
+
+# Optional: For advanced analytics and visualization
+plotly>=5.0.0
+scikit-learn>=1.0.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Logging and utilities
+python-dateutil>=2.8.0
