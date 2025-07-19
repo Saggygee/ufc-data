@@ -12,6 +12,10 @@ charset-normalizer==3.3.0
     # via requests
 idna==3.4
     # via requests
+lxml==4.9.3
+    # via beautifulsoup4 (added for HTML parsing)
+html5lib==1.1
+    # via beautifulsoup4 (added for HTML parsing)
 numpy==1.24.3
     # via
     #   -r requirements.in
